@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591513956968",
+    "project_id": "assign4nicolorossi-2259d",
+    "storage_bucket": "assign4nicolorossi-2259d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591513956968:android:a54075a9c960a26d5601dd",
+        "android_client_info": {
+          "package_name": "com.example.sdaassign4_2022"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCINU7Jze9M5bqXw0M2wchd3RLoIm_RULE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
