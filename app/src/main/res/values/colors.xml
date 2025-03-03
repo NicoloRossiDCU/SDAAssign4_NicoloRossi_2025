@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#9C27B0</color>
+    <color name="colorAccent">#9C27B0</color>
+    <color name="colorTab">#9C27B0</color>
+    <color name="colorToolbar">#2196F3</color>
+    <color name="TabText">#DE031C</color>
+    <color name="border_shade">#2A000000</color>
+    <color name="listText">#DE0952</color>
+    <color name="tabSelect">#FFFFFF</color>
+    <color name="errorMessage">#F60202</color>
+    <color name="background">#110912</color>
+    <color name="hint">#BF3D3D</color>
+
+
+</resources>
